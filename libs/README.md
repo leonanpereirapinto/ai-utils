@@ -14,4 +14,5 @@ Também há um template em [README.template.md](./README.template.md) para padro
 | Biblioteca | Tecnologia | Para que serve |
 | --- | --- | --- |
 | [Docling](./docling/README.md) | Python | Parsing e conversão de documentos em múltiplos formatos, com OCR, extração orientada a layout, exportação estruturada e ingestão para pipelines de RAG. |
+| [FastEmbed](./fastembed/README.md) | Python | Geração leve de embeddings locais com integração direta ao Qdrant Client para ingestão, busca semântica e pipelines híbridos. |
 | [LangExtract](./langextract/README.md) | Python | Extração estruturada a partir de texto não estruturado com LLMs, mantendo cada resultado ancorado no trecho original de origem. |

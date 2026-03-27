@@ -1,30 +1,30 @@
-# <Title>
+# <Título>
 
-- Source: <documentation, paper, guide, repo, or article name>
-- Link: <URL>
-- Date Reviewed: <YYYY-MM-DD>
-- Topic: <tool, model, framework, API, or concept>
+- Fonte: <documentação, paper, guia, repositório ou artigo>
+- Link: <URL, se houver>
+- Data de revisão: <YYYY-MM-DD>
+- Tópico: <ferramenta, modelo, framework, API ou conceito>
 
-## Summary
+## Resumo
 
-<Write 2 to 4 sentences with the main takeaway. Focus on what matters in practice.>
+<Escreva de 2 a 4 frases com a ideia principal. Foque no que importa na prática.>
 
-## Key Points
+## Pontos-chave
 
-- <important detail 1>
-- <important detail 2>
-- <important detail 3>
+- <detalhe importante 1>
+- <detalhe importante 2>
+- <detalhe importante 3>
 
-## Why It Matters
+## Por que importa
 
-- <when this is useful>
-- <what decision or implementation it affects>
+- <quando isso é útil>
+- <qual decisão ou implementação isso afeta>
 
-## Caveats
+## Cuidados
 
-- <limitation, version note, or gotcha>
-- <assumption or context that changes the interpretation>
+- <limitação, nota de versão ou armadilha>
+- <premissa ou contexto que muda a interpretação>
 
-## Quick Reminder
+## Lembrete rápido
 
-<Add a short reminder, command, API shape, or rule of thumb worth revisiting later.>
+<Adicione um lembrete curto, comando, formato de API ou regra prática para revisar depois.>

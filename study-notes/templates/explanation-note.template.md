@@ -1,30 +1,30 @@
-# <Topic>
+# <Tópico>
 
-## What It Is
+## O que é
 
-<Explain the concept in plain language. Keep it practical and easy to skim.>
+<Explique o conceito em linguagem simples. Mantenha o texto prático e fácil de escanear.>
 
-## Why It Matters
+## Por que importa
 
-<State the real-world impact on system design, implementation, evaluation, or operations.>
+<Descreva o impacto real em desenho de sistema, implementação, avaliação ou operação.>
 
-## Tradeoffs
+## Trade-offs
 
-- <tradeoff 1>
-- <tradeoff 2>
-- <tradeoff 3>
+- <trade-off 1>
+- <trade-off 2>
+- <trade-off 3>
 
-## Practical Guidance
+## Orientação prática
 
-- <guideline 1>
-- <guideline 2>
-- <guideline 3>
+- <diretriz 1>
+- <diretriz 2>
+- <diretriz 3>
 
-## Example
+## Exemplo
 
-<Add a small example, analogy, or decision scenario if it helps clarify the idea.>
+<Adicione um exemplo curto, analogia ou cenário de decisão se isso ajudar a esclarecer a ideia.>
 
-## Related Topics
+## Tópicos relacionados
 
-- <related topic 1>
-- <related topic 2>
+- <tópico relacionado 1>
+- <tópico relacionado 2>

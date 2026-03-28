@@ -1,0 +1,4 @@
+interface:
+  display_name: "Consultar Investigacoes"
+  short_description: "Responde perguntas com base nos artefatos de investigação"
+  default_prompt: "Use $consultar-investigacoes para responder perguntas com base nos artefatos gerados por mapear-projeto, investigar-area e consolidar-investigacoes."

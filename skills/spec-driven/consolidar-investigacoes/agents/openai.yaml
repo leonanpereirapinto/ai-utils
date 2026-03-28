@@ -1,0 +1,4 @@
+interface:
+  display_name: "Consolidar Investigacoes"
+  short_description: "Unifica mapa, backlog e resultados finais"
+  default_prompt: "Use $consolidar-investigacoes para consolidar o mapa do projeto e todos os resultados de investigacao em um unico documento."

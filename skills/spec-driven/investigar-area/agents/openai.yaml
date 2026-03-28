@@ -1,0 +1,4 @@
+interface:
+  display_name: "Investigar Área"
+  short_description: "Aprofunda uma task de investigação do projeto"
+  default_prompt: "Use $investigar-area para ler o mapa geral, executar uma task de investigação e registrar o resultado."

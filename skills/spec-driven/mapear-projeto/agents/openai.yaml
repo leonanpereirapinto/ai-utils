@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mapear Projeto"
+  short_description: "Gera mapa geral e backlog de investigação"
+  default_prompt: "Use $mapear-projeto para analisar este repositório e gerar um mapa geral com tarefas de investigação."
